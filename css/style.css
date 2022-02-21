@@ -1,0 +1,16 @@
+body{
+    background-image: url(./img/box-gdb624df2e_1280.jpg);
+}
+
+button{
+    color: rgb(0, 0, 0);
+    background-color: blanchedalmond;
+    font-family: cursive;
+    list-style:circle;
+}
+
+h1{
+    color: black;
+    font-family: cursive;
+    margin-top: 200px;
+}
